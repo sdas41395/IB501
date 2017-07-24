@@ -1,3 +1,2 @@
-# IB501
-Python Projects
-Basic python scripts for Programming for Genomics. 
+# IB501/ Programming for the Genome
+Scripting tools for Analyzing FASTA and FASTQ files
